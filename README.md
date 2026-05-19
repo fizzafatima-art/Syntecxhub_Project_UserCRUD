@@ -1,6 +1,7 @@
 # Syntecxhub Backend Internship - Project 1: User CRUD API
 
-Welcome to my submission for **Project 1 (User CRUD API)** as part of the Syntecxhub Backend Development Internship. This project is a fully functional RESTful API built using **Node.js**, **Express.js**, and **MongoDB/Mongoose** to perform Create, Read, Update, and Delete operations on a "User" resource with proper input validation and HTTP status codes.
+Welcome to my submission for 
+**Project 1 (User CRUD API)** as part of the Syntecxhub Backend Development Internship. This project is a fully functional RESTful API built using **Node.js**, **Express.js**, and **MongoDB/Mongoose** to perform Create, Read, Update, and Delete operations on a "User" resource with proper input validation and HTTP status codes.
 
 ---
 
